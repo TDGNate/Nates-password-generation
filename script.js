@@ -68,7 +68,7 @@ function generatePassword() {
     }
     // THEN my input should be validated and at least one character type should be selected
     if (!addUpper && !addLower && !addNum && !addSpcl) {
-      alert('bruh, please put ur damn choice')
+      alert('At least pick one lol')
     }
     // WHEN all prompts are answered
 
