@@ -6,4 +6,4 @@ This project allows the user to choose/style how they want their password to be 
 
 # Final Look
 
-    <img src="./img/generate_password_img.png" alt="the generate password website look">
+  <img src="./img/generate_password_img.png" alt="the generate password website look">
