@@ -21,7 +21,6 @@ generateBtn.addEventListener("click", writePassword);
 // THEN I am presented with a series of prompts for password criteria
 
 function generatePassword() {
-
   const allUpper = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
   const allLower = allUpper.toLowerCase();
   const allNum = '0123456789';
